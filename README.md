@@ -12,7 +12,7 @@ El sistema deberá arrancar apagado, luego de presionar el botón empezará y ha
 
 # Proyecto: Estacion de subte :train2:
 <p align="center">
-   <img src= "Estacion_subte/Copy of Estacion de subte.png"/>
+   <img src= "Img/Copy of Estacion de subte.png"/>
 </p>	
 
 # Funcion principal
