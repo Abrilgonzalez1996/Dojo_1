@@ -3,6 +3,11 @@
    <img src= "https://user-images.githubusercontent.com/131720798/234136882-1d2f7633-e589-464f-85e3-a03955c779ee.jpg"/>
 </p>
 
+# Consigna SUBTE:
+La empresa  “UTN FRA Robotics” ganó la licitación de un proyecto, y deberá Implementar un sistema que permita al usuario saber a qué estación de subte está llegando, aparte  el sistema muestra las estaciones que faltan hasta llegar a destino, para ello debemos utilizar 4 LEDs y el display de 7 segmentos. Esta vez el buzzer deberá emitir un sonido diferente cada vez que se llegue a una estación.
+El sistema deberá arrancar apagado, luego de presionar el botón empezará y hará lo pedido.
+
+
 # Integrantes 👩‍🎓 
 - Abril Mariel Gonzalez Bernabeu
 
