@@ -14,7 +14,8 @@ El sistema deberá arrancar apagado, luego de presionar el botón empezará y ha
 <p align="center">
    <img src= "Estacion_subte/Copy of Estacion de subte.png"/>
 </p>	
-# Funciones pricipales
+
+# Funcion principal
 
 Recibe dos arrays, uno que contiene las variables de los pines de las luces LED y otro que contiene las variables de los pines de las luces del tablero. Utilizo un bucle 'for' para recorrer el array de las luces LED y así poder encenderlas. Luego, llamo a la función numero_estaciones, pasándole como parámetro la luz LED encendida y el array de las luces del tablero.
 
