@@ -7,15 +7,14 @@
 La empresa  “UTN FRA Robotics” ganó la licitación de un proyecto, y deberá Implementar un sistema que permita al usuario saber a qué estación de subte está llegando, aparte  el sistema muestra las estaciones que faltan hasta llegar a destino, para ello debemos utilizar 4 LEDs y el display de 7 segmentos. Esta vez el buzzer deberá emitir un sonido diferente cada vez que se llegue a una estación.
 El sistema deberá arrancar apagado, luego de presionar el botón empezará y hará lo pedido.
 
-
 # Integrantes 👩‍🎓 
 - Abril Mariel Gonzalez Bernabeu
 
 # Proyecto: Estacion de subte :train2:
 <p align="center">
    <img src= "Estacion_subte/Copy of Estacion de subte.png"/>
-# Funcion principal
-
+</p>	
+# Funciones pricipales
 Recibe dos arrays, uno que contiene las variables de los pines de las luces LED y otro que contiene las variables de los pines de las luces del tablero. Utilizo un bucle 'for' para recorrer el array de las luces LED y así poder encenderlas. Luego, llamo a la función 'numero_estaciones', pasándole como parámetro la luz LED encendida y el array de las luces del tablero.
 ```c++
 void high_low_led(int *luces, int *letras){
@@ -27,7 +26,7 @@ void high_low_led(int *luces, int *letras){
   }
 }  
 ```
-#Funciones secundarias
+# Funciones secundarias
 
 Recibe como parámetro el número del pin del LED encendido y el array con las luces del tablero. Se utiliza un switch para realizar acciones según el LED que esté encendido                   
 ```c++
