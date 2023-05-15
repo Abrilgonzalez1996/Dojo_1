@@ -91,7 +91,7 @@ void imprimir_mensaje(String mensaje){
 ```
 # Link al proyecto en tinkercad
 
-- [https://www.tinkercad.com/things/eFJjnyoYpGR-copy-of-original/editel?sharecode=CXT_Z8BpmwZd4BCv30N3PDvQAlwPVJXEZdbr5kalpS4](https://www.tinkercad.com/things/aP4jje5Uiw6)
+- https://www.tinkercad.com/things/aP4jje5Uiw6
 
 # Link al codigo del proyecto en GDB
 
